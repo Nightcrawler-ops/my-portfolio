@@ -137,18 +137,18 @@ nav a:hover {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-  }
-  #graphic-design .video {
+}
+#graphic-design .video {
     flex: 1 1 45%;
     text-align: center;
-  }
-  #graphic-design video {
+}
+#graphic-design video {
     width: 100%;
     max-width: 600px;
     border: 2px solid #ddd;
     border-radius: 5px;
-  }
-  
+}
+
   /* Design Portfolio Section */
   #design-portfolio .design-grid {
     display: grid;
@@ -166,45 +166,45 @@ nav a:hover {
     font-weight: bold;
   }
 
-  /* Styling for the video section */
+    /* Styling for the video section */
 .video-grid {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     justify-content: space-between;
     margin-top: 30px;
-  }
-  
-  .video {
+}
+
+.video {
     flex: 1 1 calc(48% - 10px); /* Adjust width for responsiveness */
     margin-bottom: 20px;
-  }
-  
-  video {
+}
+
+video {
     width: 100%;
     height: auto;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for a polished look */
-  }
-  
-  h4 {
+}
+
+h4 {
     font-size: 1.1rem;
     margin-bottom: 10px;
     text-align: center;
-  }
+}
   
-  /* Ensuring mobile responsiveness */
-  @media (max-width: 768px) {
+/* Ensuring mobile responsiveness */
+@media (max-width: 768px) {
     .video-grid {
-      flex-direction: column;
-      align-items: center;
+        flex-direction: column;
+        align-items: center;
     }
-  
+
     .video {
-      width: 100%;
-      max-width: 600px; /* Ensure videos are not too wide on smaller screens */
+        width: 100%;
+        max-width: 600px; /* Ensure videos are not too wide on smaller screens */
     }
-  } 
+}
   
 #contact {
     display: flex;
