@@ -35,7 +35,7 @@ Hosting
 I decided to host the portfolio on Tiiny.host, a free hosting platform. It’s super simple to set up, and I was able to get my site live quickly without worrying about any complicated configurations.
 
 You can access the live site here:
-https://ayotech.tiiny.site
+https://nightcrawler-ops.github.io/my-portfolio
 
 Challenges
 While building this portfolio, I encountered a few challenges, particularly with ensuring that everything was responsive and that animations worked smoothly across all devices. The most rewarding part was overcoming these challenges and seeing the site come together beautifully.
